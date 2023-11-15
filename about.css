@@ -167,9 +167,9 @@
         #childOne {
    
             display: flex;
-            flex-direction: column;
+            flex-direction:column;
             justify-content: space-evenly;
-            padding-top: 20px;
+/*             padding-top: 20px; */
             align-items: center;
             text-align: center;
            
